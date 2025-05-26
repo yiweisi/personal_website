@@ -55,7 +55,9 @@ params:
     profileMode:
           enabled: true
           title: Yiwei Si
-          subtitle: "I am a third-year in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "Hi! I’m a third-year PhD student in Linguistics at the **Faculty of Linguistics, Philology and Phonetics** at the **University of Oxford**. My research focuses on German morphology and syntax, and my thesis explores how particles contribute to the expression of aspect in German, looking at both their syntax and semantics.<br><br>
+          Before starting my PhD, I completed an MPhil in Linguistics at Oxford in 2022. I hold a Bachelor's degree in German Studies from Beijing Foreign Studies University in China.<br><br>
+          Outside of academia, I enjoy travelling, playing tennis, and unwinding with a good TV series."
           imageUrl: "yiweisi.jpg"
           imageWidth: 140
           imageHeight: 140
