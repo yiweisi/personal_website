@@ -8,6 +8,13 @@ description: ""
 
 ## 2025
 
+- **Prelim Semantics & Pragmatics**
+  - Econ 210 Principals of Economics (Spring 2020)
+  - Econ 251 Microeconomics (Fall 2019)
+  - Econ 340 Intermediate Microeconomics (Fall 2020)
+
+<br>
+
 * **Prelim Semantics & Pragmatics** <br>
     Tutor <br>
     Instructors: [Dr. Daniel Altshuler](https://www.ling-phil.ox.ac.uk/people/daniel-altshuler)
