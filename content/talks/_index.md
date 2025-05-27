@@ -7,11 +7,9 @@ description: "Given talks at conferences and seminars"
 ---
 ## 2024
 - **Particles as GROUNDkeepers: the influence of German verbal particles on
-direct object realisation**. Poster at the 2024 Annual Meeting of the Linguistics Associ-
-ation of Great Britain and Northern Ireland (LAGB), Newcastle University, UK.
+direct object realisation**. Poster at the 2024 Annual Meeting of the Linguistics Association of Great Britain and Northern Ireland (LAGB), Newcastle University, UK.
 - **Particles as GROUNDkeepers: the influence of German verbal particles on
-direct object realisation**. Talk at the 2024 edition of Workshop on Aspect and Argu-
-ment Structure of Adverbs/Adjectives and Prepositions/Participles (WAASAP), Rovira
+direct object realisation**. Talk at the 2024 edition of Workshop on Aspect and Argument Structure of Adverbs/Adjectives and Prepositions/Participles (WAASAP), Rovira
 i Virgili University, Spain.
 
 ---
