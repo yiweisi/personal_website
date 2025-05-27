@@ -1,26 +1,23 @@
 ---
 title: "Teaching"
 description: ""
----
-
-
-
- I got the opportunity to work as TA for some of the best instructors of CS department, both at Purdue University and Texas A&M University. I was TA for several undergraduate Computer Science classes where I have met and helped many wonderful students.
-<br>
-<br>
 
 ---
-## Purdue University
+## 2025
 
-* **CS 101: Digital Literacy** <br>
-    Sessions: Fall'21, Spring'22, Fall'22, Spring'23 (**Head TA**), Fall'23 (**Head TA**), Spring'24 <br>
-    Instructors: [Dr. George Adams](https://www.cs.purdue.edu/people/faculty/gba.html) & [Xiaojin Liu](https://www.cs.purdue.edu/people/faculty/liu218.html)
+* **Prelim Semantics & Pragmatics** <br>
+    Tutor <br>
+    Instructors: [Dr. Daniel Altshuler](https://www.ling-phil.ox.ac.uk/people/daniel-altshuler)
 
 <br>
 
-* **CS 448: Introduction to Relational Database Management Systems** <br>
-    Session: Spring'21 <br>
-    Instructor: [Dr. Chris Clifton](https://www.cs.purdue.edu/homes/clifton/)
+* **German V (ii): Linguistic Studies II: Present Day** <br>
+    Tutor <br>
+    Instructor: [Dr. Kerstin Hoge](https://www.ling-phil.ox.ac.uk/people/kerstin-hoge)
+    - Morphological Acquisition
+    - The Syntax of Non-Standard Varieties
+    - Aktionsarten and Particle Verbs
+    - Pronouns
 
 
 ---
