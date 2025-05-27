@@ -3,17 +3,19 @@ title: "Teaching"
 description: ""
 
 ---
+
+---
+
 ## 2025
 
 * **Prelim Semantics & Pragmatics** <br>
     Tutor <br>
     Instructors: [Dr. Daniel Altshuler](https://www.ling-phil.ox.ac.uk/people/daniel-altshuler)
 
-<br>
-
 * **German V (ii): Linguistic Studies II: Present Day** <br>
     Tutor <br>
     Instructor: [Dr. Kerstin Hoge](https://www.ling-phil.ox.ac.uk/people/kerstin-hoge)
+
     - Morphological Acquisition
     - The Syntax of Non-Standard Varieties
     - Aktionsarten and Particle Verbs
