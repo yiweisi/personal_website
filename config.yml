@@ -66,7 +66,7 @@ params:
           buttons:
              - name: Talks
                url: talks/
-             - nanem: Teaching
+             - name: Teaching
                url: teaching/
         #    - name: Papers
         #      url: papers/
